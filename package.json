@@ -1,7 +1,6 @@
 {
-  "name": "2708-node-lib-md",
+  "name": "01-node-lib-avs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -11,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alura-cursos/2708-node-lib-md.git"
+    "url": "https://github.com/Maastqz/biblioteca-nodeJs.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alana-Vitoria",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alura-cursos/2708-node-lib-md/issues"
+    "url": "https://github.com/Maastqz/biblioteca-nodeJs./issues"
   },
-  "homepage": "https://github.com/alura-cursos/2708-node-lib-md#readme",
+  "homepage": "https://github.com/Maastqz/biblioteca-nodeJs.git#readme",
   "dependencies": {
     "chalk": "5.0.1"
   }
