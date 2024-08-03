@@ -19,13 +19,13 @@ async function PegaArquivo(caminhoArquivo) {
   try {
     const encoding = 'utf-8';
     const texto = await fs.promises.readFile(caminhoArquivo, encoding)
-    return extraiLink(texto);
+    return ExtraiLink(texto);
   } catch (erro) {
-    trataErro(erro)
+    TrataErro(erro)
   }
 }
 
-export default pegaArquivo;
+export default PegaArquivo;
 
 module.exports = {
   ExtraiLink,
